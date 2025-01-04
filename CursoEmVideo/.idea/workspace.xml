@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86588c15-a0ae-4375-8ad0-9f2cbb637933" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Desafios/desafio014.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2q0BRd9D5cpupLXUmrqK7W8Zh3j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Desafio24v2.executor": "Run",
+    "Python.desafio003.executor": "Run",
+    "Python.desafio004.executor": "Run",
+    "Python.desafio005.executor": "Run",
+    "Python.desafio006.executor": "Run",
+    "Python.desafio007.executor": "Run",
+    "Python.desafio008.executor": "Run",
+    "Python.desafio009.executor": "Run",
+    "Python.desafio010.executor": "Run",
+    "Python.desafio011.executor": "Run",
+    "Python.desafio012.executor": "Run",
+    "Python.desafio013.executor": "Run",
+    "Python.desafio014.executor": "Run",
+    "Python.desafio015.executor": "Run",
+    "Python.desafio016.executor": "Run",
+    "Python.desafio017.executor": "Run",
+    "Python.desafio018.executor": "Run",
+    "Python.desafio019.executor": "Run",
+    "Python.desafio020.executor": "Run",
+    "Python.desafio021.executor": "Run",
+    "Python.desafio022.executor": "Run",
+    "Python.desafio023.executor": "Run",
+    "Python.desafio023b.executor": "Run",
+    "Python.desafio024.executor": "Run",
+    "Python.desafio025.executor": "Run",
+    "Python.desafio026.executor": "Run",
+    "Python.desafio027.executor": "Run",
+    "Python.desafio028.executor": "Run",
+    "Python.desafio028v1.0.executor": "Run",
+    "Python.desafio029.executor": "Run",
+    "Python.desafio030.executor": "Run",
+    "Python.desafio031.executor": "Run",
+    "Python.desafio032.executor": "Run",
+    "Python.desafio033.executor": "Run",
+    "Python.desafio034.executor": "Run",
+    "Python.desafio035v1.0.executor": "Run",
+    "Python.desafio036.executor": "Run",
+    "Python.desafio037.executor": "Run",
+    "Python.desafio038.executor": "Run",
+    "Python.desafio039.executor": "Run",
+    "Python.desafio040.executor": "Run",
+    "Python.desafio041.executor": "Run",
+    "Python.desafio042(35v2.0).executor": "Run",
+    "Python.desafio043.executor": "Run",
+    "Python.desafio044.executor": "Run",
+    "Python.desafio045.executor": "Run",
+    "Python.exer000.executor": "Run",
+    "Python.exer001.executor": "Run",
+    "Python.exer002.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/TheoIshibashi/PycharmProjects/CursoEmVideo",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86588c15-a0ae-4375-8ad0-9f2cbb637933" name="Changes" comment="" />
+      <created>1733789604650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733789604650</updated>
+    </task>
+    <servers />
+  </component>
+</project>
