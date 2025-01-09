@@ -5,7 +5,7 @@ jogador = int(input('Qual e sua jogada? '))
 itens = ['Pedra', 'Papel', 'Tesoura']
 computador = randint(0, 2)
 
-print(f'{'\033[36m'}=-{'\033[m'}'*1)
+print(f'{'\033[36m'}=-{'\033[m'}'*11)
 print(f'O Computador escolheu {itens[computador]}')
 print(f'O Jogador escolheu {itens[jogador]}')
 print(f'{'\033[36m'}=-{'\033[m'}'*11)
@@ -28,8 +28,7 @@ elif computador == 1:
         print('JOGADOR VENCEU')
     else:
         print('Jogada invalida')
-
-if computador == 2:
+elif computador == 2:
     if jogador == 0:
         print('JOGADOR VENCEU')
     elif jogador == 1:
