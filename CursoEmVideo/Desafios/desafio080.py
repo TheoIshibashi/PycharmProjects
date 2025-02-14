@@ -2,12 +2,19 @@
 #já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 
 lista = []
-numero = int(input('Digite um valor: '))
-lista.append(numero)
-for i in range(0, 3):
+for i in range(0, 5):
     numero = int(input('Digite um valor: '))
-    if numero < lista[0]:
-        lista.insert(0, numero)
-    else:
+    if i == 0 or numero > lista[-1]:
+        print('Foi adicionado ao final da lista...')
         lista.append(numero)
-print(lista)
+    else:
+        pos = 0
+        while pos < len(lista):
+            if numero <= lista[pos]:
+                lista.insert(pos, numero)
+                print(f'Adicionado na posicao {pos} da lista...')
+                break
+            pos += 1
+
+
+print(f'Os valores digitados em ordem foram {lista}')

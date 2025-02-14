@@ -3,12 +3,8 @@
 #No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
 lista = []
-escolha = ''
-numero = int(input('Digite um numero: '))
-lista.append(numero)
-print('Valor adicionado com sucesso...')
+escolha = 'S'
 while True:
-    escolha = input('Deseja continuar? [S/N]: ')
     if escolha.upper() == 'S':
         numero = int(input('Digite um numero: '))
         if numero not in lista:
@@ -20,5 +16,6 @@ while True:
         break
     else:
         print('Selecione S ou N apenas.')
+    escolha = input('Deseja continuar? [S/N]: ')
 
 print(f'Lista finalizada. Os valores unicos da lista em ordem sao: {sorted(lista)}')

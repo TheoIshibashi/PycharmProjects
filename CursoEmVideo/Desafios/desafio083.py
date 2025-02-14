@@ -3,7 +3,6 @@
 
 lista = []
 digitado = input('Digite uma expressao com parenteses: ')
-
 for caractere in digitado:
     if caractere == '(':
         lista.append('(')
